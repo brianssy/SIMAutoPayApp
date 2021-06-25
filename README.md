@@ -1,2 +1,2 @@
-# SIMAutoPayApp
-Secure autopay Mobile application to help faciliate Payments via Scanning of QR Codes of respective merchants.
+# SimPay
+A Secure Autopay Project to create a mobile app that allows user to do utilize different methods of payment as their payment options within the application on both android &amp; iOS
